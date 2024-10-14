@@ -1,4 +1,4 @@
-package concretes.dollarconversion;
+package projects.dollarconversion;
 
 /*
  * This is my dollar to tl conversion app
@@ -6,8 +6,6 @@ package concretes.dollarconversion;
  */
 
 import abstracts.DemoApp;
-
-import java.util.Scanner;
 
 public class DollarConversionApp extends DemoApp {
     public DollarConversionApp() {

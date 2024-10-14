@@ -3,6 +3,8 @@
 
 This repository is created to load all of my projects related to CENG (Computer Engineering) lessons and homework. Additionally, I will upload all my projects here so that everyone can benefit from them.
 
+[Click to see the problem sets](https://drive.google.com/drive/folders/1m0lH5vXbAIGT9aHngYu0tsIFHtyXhX_V)
+
 ## Visitor Notice
 
 If you are new to the programming world, the structure and folder organization may seem complex at first. However, you do not need to understand every line of code. This documentation is provided exactly for you! Here, you can see which areas are of interest to you, so let’s dive in.
@@ -13,7 +15,7 @@ To contribute to my code, follow the instructions under the "For Contribution" s
 
 ## 1. Folder Structure
 
-In this repository, you will find multiple projects grouped into different folders. Navigate to the `/src/concretes` folder to see the various projects organized as separate folders. Each folder represents a single project that is independent of the others and does not import from one another.
+In this repository, you will find multiple projects grouped into different folders. Navigate to the `/src/projects` folder to see the various projects organized as separate folders. Each folder represents a single project that is independent of the others and does not import from one another.
 
 ---
 
