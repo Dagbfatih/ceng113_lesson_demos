@@ -1,5 +1,6 @@
 import projects.phonecalls.PhoneCallsApp;
 import projects.playground.PlayGround;
+import projects.recursion.RecursionSamples;
 import projects.temperatureconversion.TemperatureConversionApp;
 
 public class Main {
@@ -10,7 +11,9 @@ public class Main {
 
         // (new TemperatureConversionApp()).run();
 
-        (new PhoneCallsApp()).run();
+        // (new PhoneCallsApp()).run();
+
+        (new RecursionSamples()).run();
 
     }
 }
